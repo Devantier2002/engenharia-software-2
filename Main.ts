@@ -7,6 +7,7 @@ import { Util } from "./Util";
 const teclado = prompt();
 
 console.log("=== Batalha de Personagens ===")
+console.log("=== Batalha de Personagens ===")
 
 let personagens: Personagem[] = [];
 personagens.push(new Priest("Fábio de Melo"));
